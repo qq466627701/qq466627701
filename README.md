@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wu Yan Da
 - 👀 I’m a Ragdoll cattery's breeder.
-- 🌱 I’m currently learning C#,Swift,Xcode,Unity.
+- 🌱 I’m currently learning C/C++,C#,Swift,Xcode,Unity.
 - 💞️ How to reach me --->Mail:466627701@qq.com
 -                        Phone:+86 13151555627
 
